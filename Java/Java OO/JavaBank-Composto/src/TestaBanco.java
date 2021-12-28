@@ -9,6 +9,7 @@ public class TestaBanco {
 		Conta contaCeborinha = new Conta();
 		contaCeborinha.deposita(100);
 		
+		//Associa contaCeborinha a teste. Faz composição do objeto.
 		contaCeborinha.titular = teste;
 		System.out.println(contaCeborinha.titular.nome);
 	}
