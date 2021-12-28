@@ -1,2 +1,2 @@
 # projetos-cursos-alura
-Aqui estão alguns dos projetos feitos durante as aulas dos cursos da Alura.
+Aqui estão alguns dos projetos feitos durante as aulas dos cursos da Alura. :)
